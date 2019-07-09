@@ -1,10 +1,6 @@
 # The Amazing rpkgMin
 
-This package is the bear
+This package is a toy example to illustrate the use of Travis and pkgdown functionnalities
 ---
 
-[Jumping Rivers](https://jumpingrivers.com) are RStudio Certified partners. We are currently developing
-methods for live monitoring of RStudio Server and Connect. If you are interested
-in hearing more, please [sign up](https://jumpingrivers.typeform.com/to/RCUweI) to 
-get information about our beta version.
-
+It has been done during the Get the most out of git Tutorial

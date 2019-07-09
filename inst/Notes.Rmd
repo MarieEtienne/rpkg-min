@@ -46,5 +46,14 @@ CTRL + Shift + E
 select the package in travis
 
 
+## PAT personnal authentification on github
+
+github limits the number of request to 5000hour per hour. might occur some failures in the compilation with travis. 
+To avoid this problem, we should use an identification to avaoid travis to use general identification. To do so create a persoannal authentification on github and with no right and inditaes it to travis 
+
+should avoid error 403 problem.
+
+## Working with multiple version of R
+to check compatibility with different version
 
 
