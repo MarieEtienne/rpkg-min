@@ -43,5 +43,8 @@ before submitting you have to check it
 checking the package
 CTRL + Shift + E
 
+select the package in travis
+
+
 
 
