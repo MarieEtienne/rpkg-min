@@ -1,0 +1,47 @@
+---
+title: "Notes from the git course"
+author: "Marie-Pierre Etienne"
+date: "July 9, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#  git generalities 
+
+## Hidden variables in R
+
+if you create a variable `.hidden <- 5` it's hidden.
+```{r}
+.hidden <- 4
+ls()
+.hidden + 2 
+```
+
+
+## Two camps in R
+comit or not the Rproj
+C. Gillepsie suggests to commit .Rproj
+
+
+It may be a good idea to store the documentation of a package even if it is generated.
+
+## more on .gitignore
+
+see.gitignore of thr rpkg repo
+
+# Travis
+
+##  Building the package
+CTRL + Shift + B
+
+before submitting you have to check it 
+
+checking the package
+CTRL + Shift + E
+
+
+
